@@ -62,3 +62,7 @@ body{
     color: white;
     font-weight: bold;
 }
+label{
+    color: black;
+    font-weight: 500;
+}
